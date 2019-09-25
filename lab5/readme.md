@@ -1,4 +1,4 @@
-Generate netwok as shown here (below)
+Generate netwok as shown here: https://github.com/swadeeshs/ComputerNetworksLab/blob/master/lab5/6node.jpg
 
 Assign cost between 0 & 1 as 5 and 5 & 4 as 3
 
@@ -14,3 +14,4 @@ make link 1-4 up at 3.0 and 2-3 at 3.5
 make link 2-3 and 2-4 go down at 4.0
 
 stop simulation at 4.5 or 5 
+
